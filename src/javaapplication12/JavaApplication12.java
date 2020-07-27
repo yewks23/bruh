@@ -32,7 +32,7 @@ public class JavaApplication12 {
             if (!Character.isDigit(creditCardNumber.charAt(i))){
                 
             }
-            
+            // dwoidafnporu
         }
         if (creditCardNumber.length() != 16){
                 return false;
